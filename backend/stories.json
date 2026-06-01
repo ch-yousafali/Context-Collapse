@@ -1,0 +1,576 @@
+{
+  "synthesized_at": "2026-06-01T16:23:38.189548+00:00",
+  "count": 30,
+  "stories": [
+    {
+      "id": "evt_20260601_001",
+      "unified_title": "NPM packages from Red Hat have been compromised",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "NPM packages from Red Hat have been compromised. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "NPM packages from Red Hat have been compromised",
+          "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356625",
+          "engagement_metrics": "554 points | 281 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_002",
+      "unified_title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Anthropic confidentially submits draft S-1 to the SEC. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Anthropic confidentially submits draft S-1 to the SEC",
+          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "discussion_url": "https://news.ycombinator.com/item?id=48358646",
+          "engagement_metrics": "74 points | 36 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_003",
+      "unified_title": "CS336: Language Modeling from Scratch",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "CS336: Language Modeling from Scratch. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "CS336: Language Modeling from Scratch",
+          "url": "https://cs336.stanford.edu/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48357075",
+          "engagement_metrics": "95 points | 7 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_004",
+      "unified_title": "The Dirt That Refused to Die",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "The Dirt That Refused to Die. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "The Dirt That Refused to Die",
+          "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48357905",
+          "engagement_metrics": "35 points | 0 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_005",
+      "unified_title": "Flipper Zero Zig Template",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Flipper Zero Zig Template. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Flipper Zero Zig Template",
+          "url": "https://github.com/NishantJoshi00/flipper-template",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356490",
+          "engagement_metrics": "59 points | 3 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_006",
+      "unified_title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "The Pirate Bay Remains Resilient, 20 Years After the Raid. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+          "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48357154",
+          "engagement_metrics": "182 points | 60 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_007",
+      "unified_title": "A 10 year old Xeon is all you need",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "A 10 year old Xeon is all you need. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "A 10 year old Xeon is all you need",
+          "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48353348",
+          "engagement_metrics": "493 points | 220 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_008",
+      "unified_title": "Sysadmining Like It's 2009",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Sysadmining Like It's 2009. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Sysadmining Like It's 2009",
+          "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356847",
+          "engagement_metrics": "43 points | 13 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_009",
+      "unified_title": "Linux Basics for Hackers (2019)",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Linux Basics for Hackers (2019). Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Linux Basics for Hackers (2019)",
+          "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356468",
+          "engagement_metrics": "49 points | 11 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_010",
+      "unified_title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Only 17% of all 64-bit Integers are products of two 32-bit integers. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+          "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48311003",
+          "engagement_metrics": "105 points | 47 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_011",
+      "unified_title": "Windows GOG DOS Games on M-Series Macs",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Windows GOG DOS Games on M-Series Macs. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Windows GOG DOS Games on M-Series Macs",
+          "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356603",
+          "engagement_metrics": "60 points | 40 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_012",
+      "unified_title": "I made my phone slow on purpose",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "I made my phone slow on purpose. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "I made my phone slow on purpose",
+          "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48312443",
+          "engagement_metrics": "27 points | 24 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_013",
+      "unified_title": "Can You Stop a Hypersonic Missile?",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Can You Stop a Hypersonic Missile?. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Can You Stop a Hypersonic Missile?",
+          "url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48358515",
+          "engagement_metrics": "4 points | 0 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_014",
+      "unified_title": "Show HN: A CSS 3D Engine (no WebGL)",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Show HN: A CSS 3D Engine (no WebGL). Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Show HN: A CSS 3D Engine (no WebGL)",
+          "url": "https://github.com/LayoutitStudio/polycss",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356946",
+          "engagement_metrics": "17 points | 5 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_015",
+      "unified_title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+          "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356741",
+          "engagement_metrics": "19 points | 14 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_016",
+      "unified_title": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]",
+          "url": "https://www.youtube.com/watch?v=chJHB-btMNI",
+          "discussion_url": "https://news.ycombinator.com/item?id=48331587",
+          "engagement_metrics": "20 points | 3 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_017",
+      "unified_title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Tracing HTTP Requests with Go's net/HTTP/httptrace. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+          "url": "https://blainsmith.com/articles/httptrace-with-go/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48311587",
+          "engagement_metrics": "132 points | 8 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_018",
+      "unified_title": "KDE at 30",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "KDE at 30. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "KDE at 30",
+          "url": "https://kde.org/anniversaries/30/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48357355",
+          "engagement_metrics": "72 points | 35 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_019",
+      "unified_title": "Nvidia Cosmos 3",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Nvidia Cosmos 3. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Nvidia Cosmos 3",
+          "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48356654",
+          "engagement_metrics": "86 points | 14 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_020",
+      "unified_title": "The TfL Cupboard Filled with Lost Tube Moquettes",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "The TfL Cupboard Filled with Lost Tube Moquettes. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "The TfL Cupboard Filled with Lost Tube Moquettes",
+          "url": "https://londonist.com/london/transport/moquettes-that-never-were",
+          "discussion_url": "https://news.ycombinator.com/item?id=48319040",
+          "engagement_metrics": "3 points | 0 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_021",
+      "unified_title": "Chuwi Minibook X",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Chuwi Minibook X. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Chuwi Minibook X",
+          "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48350598",
+          "engagement_metrics": "358 points | 270 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_022",
+      "unified_title": "Movwin: My (Unpublished) TUI Framework",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Movwin: My (Unpublished) TUI Framework. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Movwin: My (Unpublished) TUI Framework",
+          "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
+          "discussion_url": "https://news.ycombinator.com/item?id=48331329",
+          "engagement_metrics": "41 points | 5 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_023",
+      "unified_title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Cloudflare Turnstile requiring fingerprintable WebGL. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+          "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+          "discussion_url": "https://news.ycombinator.com/item?id=48345840",
+          "engagement_metrics": "755 points | 432 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_024",
+      "unified_title": "You Must Fix Your Asserts (Zig)",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "You Must Fix Your Asserts (Zig). Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "You Must Fix Your Asserts (Zig)",
+          "url": "https://kristoff.it/blog/fix-your-asserts/",
+          "discussion_url": "https://news.ycombinator.com/item?id=48355693",
+          "engagement_metrics": "25 points | 6 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_025",
+      "unified_title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync). Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+          "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+          "discussion_url": "https://news.ycombinator.com/item?id=48323844",
+          "engagement_metrics": "65 points | 24 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_026",
+      "unified_title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+          "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+          "discussion_url": "https://news.ycombinator.com/item?id=48327453",
+          "engagement_metrics": "208 points | 45 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_027",
+      "unified_title": "Using Git's rerere feature to escape recurring conflict hell",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Using Git's rerere feature to escape recurring conflict hell. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "Using Git's rerere feature to escape recurring conflict hell",
+          "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
+          "discussion_url": "https://news.ycombinator.com/item?id=48353504",
+          "engagement_metrics": "62 points | 25 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_028",
+      "unified_title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "The SLAX Scripting Language: An Alternate Syntax for XSLT. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Hacker News",
+          "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
+          "url": "http://juniper.github.io/libslax/slax-manual.html",
+          "discussion_url": "https://news.ycombinator.com/item?id=48333823",
+          "engagement_metrics": "31 points | 10 comments"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_029",
+      "unified_title": "MiniMax M3 on AI Gateway",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "MiniMax M3 on AI Gateway. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Vercel Blog",
+          "title": "MiniMax M3 on AI Gateway",
+          "url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+          "discussion_url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+          "engagement_metrics": "RSS Feed"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    },
+    {
+      "id": "evt_20260601_030",
+      "unified_title": "Function invocations now billed per unit",
+      "impact_score": 5,
+      "category": "Other",
+      "tldr": "Function invocations now billed per unit. Check the original source for details.",
+      "sources": [
+        {
+          "platform": "Vercel Blog",
+          "title": "Function invocations now billed per unit",
+          "url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+          "discussion_url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+          "engagement_metrics": "RSS Feed"
+        }
+      ],
+      "key_terms": [],
+      "timestamp": "2026-06-01T16:23:38.188866+00:00",
+      "is_read": false
+    }
+  ]
+}
