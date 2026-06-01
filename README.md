@@ -1,8 +1,7 @@
 # Context-Collapse
 
-> **Smart Tech News Synthesizer** — A self-hosted, AI-powered intelligence dashboard for developers.
+**Smart Tech News Synthesizer** A self-hosted, AI-powered intelligence dashboard for developers.
 
-![Status](https://img.shields.io/badge/status-vibe--coded-brightgreen)
 ![Stack](https://img.shields.io/badge/stack-React%20%2B%20Flask%20%2B%20Gemini-blue)
 
 ## What It Does
@@ -16,6 +15,7 @@ Context-Collapse eliminates information overload by:
 
 ## Architecture
 
+```
 +------------------+     +-------------------+     +------------------+
 |   Target APIs    |     |   Scraper Engine  |     |  Local DB/Cache  |
 |                  |     |                   |     |                  |
@@ -27,19 +27,19 @@ Context-Collapse eliminates information overload by:
                                                             |
                                                             v
 +------------------+     +-------------------+     +------------------+
-|   React Frontend |<<----|  Flask API Server |<<----|  LLM Synthesizer |
+|   React Frontend |<----|  Flask API Server |<----|  LLM Synthesizer |
 |                  |     |                   |     |                  |
 |  App.jsx         |     |  app.py           |     |  synthesizer.py  |
-|  - Hero Panel    |<<----|  - /api/sync      |<<----|  - Gemini 2.5    |
-|  - Impact Filter |    |  - /api/stories   |     |  - JSON Schema   |
+|  - Hero Panel    |<----|  - /api/sync      |<----|  - Gemini 2.5    |
+|  - Impact Filter |     |  - /api/stories   |     |  - JSON Schema   |
 |  - Archive       |     |  - /api/archive   |     |  - Clustering    |
 |  - Source Drawer |     |  - CORS enabled   |     |  - TL;DR Gen     |
 +------------------+     +-------------------+     +------------------+
          ^
          |
    User clicks "Sync Now" or opens dashboard
+```
 
-   
 ## Data Sources
 
 - **Hacker News** (Firebase API) — Top stories
@@ -49,11 +49,13 @@ Context-Collapse eliminates information overload by:
 ## Quick Start
 
 ### Prerequisites
+
 - Python 3.10+
 - Node.js 18+
-- A [Gemini API key](https://aistudio.google.com/app/apikey) (optional — falls back to no-AI mode)
+- A [Gemini API key](https://aistudio.google.com/app/apikey) (optional falls back to no-AI mode)
 
 ### 1. Clone & Configure
+
 ```bash
 cd context-collapse
 cp .env.example .env
@@ -61,6 +63,7 @@ cp .env.example .env
 ```
 
 ### 2. Run Everything
+
 ```bash
 ./start.sh
 ```
@@ -68,6 +71,7 @@ cp .env.example .env
 Or manually:
 
 **Backend:**
+
 ```bash
 cd backend
 python3 -m venv venv
@@ -77,6 +81,7 @@ python app.py
 ```
 
 **Frontend:**
+
 ```bash
 cd frontend
 npm install
@@ -84,6 +89,7 @@ npm run dev
 ```
 
 ### 3. Open
+
 - **Dashboard:** http://localhost:5173
 - **API:** http://localhost:5001
 
@@ -100,13 +106,13 @@ npm run dev
 
 ## Frontend Features
 
-- 🌑 **Premium dark mode** — Slate-900 terminal aesthetic
-- ⚡ **Hero panel** — Highest impact story featured prominently
-- 📊 **Impact scoring** — 1-10 color-coded badges
-- 🔍 **Impact filter** — Slider to show only high-signal stories (7+)
-- 📁 **Archive** — Mark stories as read to hide them
-- 🔗 **Source aggregation** — Click any card to see all original sources
-- 🏷️ **Key terms** — Auto-extracted technical keywords
+- Premium dark mode — Slate-900 terminal aesthetic
+- Hero panel — Highest impact story featured prominently
+- Impact scoring — 1-10 color-coded badges
+- Impact filter — Slider to show only high-signal stories (7+)
+- Archive — Mark stories as read to hide them
+- Source aggregation — Click any card to see all original sources
+- Key terms — Auto-extracted technical keywords
 
 ## Project Structure
 
@@ -153,5 +159,4 @@ context-collapse/
 
 ## License
 
-MIT — Built for developers, by developers.
-# Context-Collapse
+MIT Built for developers, by developers and for fun or project purpose.
